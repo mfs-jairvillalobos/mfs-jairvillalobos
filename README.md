@@ -5,7 +5,7 @@
   <a href="https://jairvillalobos.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div> 
 
-##  Hola, soy Jair Villalobos, Full Stack Developer Django  & ReactJS
+##  Hola, soy Jair Villalobos, Full Stack Developer
 <div align="left">
   <a href="https://github.com/jairvillalobos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jairvillalobos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
