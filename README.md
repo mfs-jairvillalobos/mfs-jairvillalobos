@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Python and Go (programming language) and React**
 
 - 👨‍💻 All of my projects are available at
-[https://mfs-jairvillalobos.github.io/](https://mfs-jairvillalobos.github.io/public/)
+[https://mfs-jairvillalobos.github.io/](https://mfs-jairvillalobos.github.io)
 
 - 💬 Ask me about **Web development and custom software design**
 
