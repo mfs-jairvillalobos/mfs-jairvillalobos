@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🧑🏾‍💻, I'm Jair Villalobos</h1>
-<h3 align="center">A passionate Full Stack software developer Go 🐹, and React ⚛️ and  Flutter apprenticefrom Colombia 🇨🇴</h3>
+<h3 align="center">A passionate Full Stack software developer Go 🐹, and React ⚛️ and  Flutter apprentice from Colombia 🇨🇴</h3>
 
 - 🔭 I’m currently working on  I’m currently working on [Tigo Money](https://tigomoney.com/gt/home-gt) 💰
 - 🌱 I’m currently learning **Python 🐍, Go (programming language) 🐹, and React ⚛️**
