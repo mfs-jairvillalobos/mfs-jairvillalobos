@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Python 🐍, Go (programming language) 🐹, and React ⚛️**
 - 👨‍💻 All of my projects are available at my portfolio [here](https://jairvillalobos.com/)
 - 💬 Ask me about **Web development 💻 and custom software design 🖥️**
-- 📫 How to reach me: [Email](mailto:jairvillalobosdev@gmail.com)
+- 📫 How to reach me: [Email](mailto:juanjair2018@hotmail.com)
 - ⚡ Fun fact: **I usually play with the animations of video conferencing apps 🎥**
 
 ## <h3 align="left">Languages and Tools:</h3>
