@@ -1,5 +1,7 @@
 # Welcome to my profile
-![olayasoft](https://github.com/juanvillalobosnz/juanvillalobosnz/assets/53276949/a615cc14-3339-4b7a-b372-cd0c44a7457d)
+
+![Freelance Software Developer Baner](https://github.com/juanvillalobosnz/juanvillalobosnz/assets/53276949/0692adcc-7f9c-439f-9a91-ee82e8762024)
+
 
 ## Main Skills
 
