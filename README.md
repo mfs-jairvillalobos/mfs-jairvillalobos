@@ -1,5 +1,5 @@
 # Welcome to my profile
-![Blue And Green Professional Technology LinkedIn Banner](https://github.com/juanvillalobosnz/juanvillalobosnz/assets/53276949/002949c5-30e7-4b71-aad6-a5ed2ca4d7dd)
+![olayasoft](https://github.com/juanvillalobosnz/juanvillalobosnz/assets/53276949/a615cc14-3339-4b7a-b372-cd0c44a7457d)
 
 ## Main Skills
 
