@@ -17,6 +17,6 @@ Soy un desarrollador de backend apasionado por construir sistemas robustos y esc
 ## Contacto
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/jjvnz/)
 - Correo electrónico: jjvnz.dev@outlook.com
-- Sitio web: jjvnz.github.io
+- Sitio web: https://www.jjvnz.github.io
 
 ¡No dudes en contactarme para oportunidades de colaboración o simplemente para charlar sobre tecnología!
