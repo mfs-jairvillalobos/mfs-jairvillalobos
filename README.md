@@ -1,7 +1,8 @@
 # ¡Hola! Soy Juan Jair Villalobos Nuñez 👋
 
 ## Acerca de mí
-Soy un desarrollador backend con más de 4 años de experiencia. Mi enfoque se centra en crear soluciones sólidas y seguras para diferentes sectores. Tengo habilidades en Python, Go, FastAPI, Django, Java, Spring Boot y Next.js. Trabajo con microservicios, SQL, AWS Lambda, Docker y arquitecturas sin servidor para garantizar la entrega de software de calidad que cumpla con las expectativas de mis clientes.
+
+Tengo más de 4 años de experiencia en desarrollo backend, especializándome en soluciones tecnológicas seguras y eficientes. He trabajado con lenguajes y frameworks como Python, Go, FastAPI, Django, Java, Spring Boot, Next.js, TypeScript, Node.js y Express.js, así como en tecnologías y herramientas como SQL, AWS Lambda, Docker, arquitecturas serverless y de microservicios. En el sector Fintech, lideré proyectos innovadores que mejoraron la eficiencia y seguridad de los sistemas. En Millicom Tigo, contribuí al desarrollo de componentes esenciales para Tigo Money Wallet, implementando patrones de tolerancia a fallos y resiliencia. Mi enfoque ágil, especialmente en Scrum, garantiza entregas iterativas de alta calidad que siempre superan las expectativas del cliente.
 
 ## Tecnologías
 - **Lenguajes:** 
