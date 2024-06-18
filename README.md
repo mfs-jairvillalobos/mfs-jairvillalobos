@@ -35,8 +35,5 @@ Soy un desarrollador backend con más de 4 años de experiencia. Mi enfoque se c
 
 - **Correo electrónico:** 
   jjvnz.dev@outlook.com
-
-- **Sitio web:** 
-  [![Sitio web](https://img.shields.io/badge/-jjvnz.github.io-black?style=flat-square&logo=github&logoColor=white)](https://www.jjvnz.github.io)
-
+  
 ¡No dudes en contactarme para oportunidades de colaboración o simplemente para charlar sobre tecnología!
