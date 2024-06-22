@@ -1,4 +1,4 @@
-# ¡Hola! Soy Juan Jair Villalobos Nuñez 👋
+# ¡Hola! Soy Juan Villalobos 👋
 
 ## Acerca de mí
 
