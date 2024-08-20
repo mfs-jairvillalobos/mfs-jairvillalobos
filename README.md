@@ -1,7 +1,7 @@
 # ¡Hola! Soy Juan Jair Villalobos Nuñez 👋
 
 ### 🧑‍💻 Sobre mí
-Soy un **Senior Backend Developer** con experiencia sólida en el diseño y desarrollo de soluciones tecnológicas escalables y seguras. Tengo una gran pasión por la programación en **Python, Go** y **Java**, con un enfoque en **microservicios** y **arquitecturas serverless** en la nube, especialmente en **AWS**. Mi objetivo es colaborar en equipos de desarrollo y contribuir al crecimiento de empresas tecnológicas innovadoras.
+Soy un **Backend Developer** con experiencia sólida en el diseño y desarrollo de soluciones tecnológicas escalables y seguras. Tengo una gran pasión por la programación en **Python, Go** y **Java**, con un enfoque en **microservicios** y **arquitecturas serverless** en la nube, especialmente en **AWS**. Mi objetivo es colaborar en equipos de desarrollo y contribuir al crecimiento de empresas tecnológicas innovadoras.
 
 ### 🔧 Tecnologías & Herramientas
 - **Lenguajes:** Python, Go, Java
