@@ -1,7 +1,7 @@
-# ¡Hola! Soy Juan Jair Villalobos Nuñez 👋
+# ¡Hola! Soy Juan Villalobos 👋
 
 ### 🧑‍💻 Sobre mí
-Backend Developer especializado en Python, Go y Java. Experto en microservicios y arquitecturas serverless en AWS. Apasionado por soluciones tecnológicas escalables y seguras.
+Full Stack Developer especializado en Python, Go y Java, React, Flutter. Experto en microservicios y arquitecturas serverless en AWS. Apasionado por soluciones tecnológicas escalables y seguras.
 
 ### 🔧 Tecnologías & Herramientas
 - **Lenguajes:** Python, Go, Java
