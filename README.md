@@ -3,8 +3,6 @@
 ### Full Stack Developer | Python, Go, Spring Boot, React | Microservices & QA
 
 📍 **Location:** Colombia  
-📞 **Phone:** +57 3013144203  
-✉️ **Email:** [jjvnz.dev@outlook.com](mailto:jjvnz.dev@outlook.com)  
 🌐 **Portfolio:** [jjvnz.github.io](https://jjvnz.github.io/)  
 
 ---
@@ -30,12 +28,12 @@
 
 ### 🔍 Summary
 
-I am a Full Stack Developer with **4+ years** of experience specializing in **microservices** and **AWS**. I am proficient in multiple programming languages, with a strong understanding of both relational and non-relational databases. I thrive in **Scrum** and **Agile** environments, delivering innovative and effective solutions.
+I am a Full Stack Developer with **4+ years** of experience specializing in **microservices** and **AWS**. I have a strong proficiency in multiple programming languages and a solid understanding of both relational and non-relational databases. I thrive in **Scrum** and **Agile** environments, consistently delivering innovative and effective solutions.
 
 ### 💡 Why Work With Me?
-- **Versatile Developer**: Experience in multiple domains and technologies.
+- **Versatile Developer**: Experience in diverse domains and technologies.
 - **Innovative Thinker**: Always looking for ways to enhance projects.
-- **Strong Communicator**: Clear and effective collaboration with teams.
+- **Strong Communicator**: Effective collaboration with teams.
 - **Adaptable Problem Solver**: Tackling challenges with ease.
 
 ---
@@ -55,7 +53,7 @@ I am a Full Stack Developer with **4+ years** of experience specializing in **mi
 ---
 
 ### 📫 Let's Connect!
-I'm always open to new opportunities and collaborations. Feel free to reach out!
+I'm always open to new opportunities and collaborations. Feel free to reach out through my portfolio or LinkedIn!
 
 ---
 
