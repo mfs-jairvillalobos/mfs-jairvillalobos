@@ -1,7 +1,7 @@
 # Juan Villalobos 👋
 
 **Backend Engineer | Python & Go Specialist | AWS Enthusiast**  
-🔗 [GitHub](https://github.com/tu_usuario)
+🔗 [GitHub](https://github.com/jjvnz)
 
 ---
 
