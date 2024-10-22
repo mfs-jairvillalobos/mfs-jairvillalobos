@@ -40,9 +40,3 @@ Buscando oportunidades para colaborar en proyectos innovadores en automatizació
 
 
 ### ¡Listo para hacer que las cosas sucedan! 🚀
-Cambios realizados:
-Se agregó un botón de GitHub con el logo oficial.
-Se ajustó la alineación y espaciado para mejorar la legibilidad.
-Se resaltaron los logros clave con emojis.
-Se agregó un llamado a la acción al final.
-Recuerda que la apariencia visual puede variar dependiendo de la plataforma donde se muestre.
