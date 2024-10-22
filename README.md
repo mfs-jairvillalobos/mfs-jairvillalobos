@@ -1,5 +1,5 @@
 # **Juan Villalobos** 👋  
-### **Full Stack Developer** | Python, Go, Spring Boot, React | **Cloud & AI Solutions**  
+### **Backend Engineer | Python & Go Specialist | AWS Enthusiast**  
 📍 **Colombia** | 🌐 [Portfolio](https://jjvnz.github.io/) | [LinkedIn](https://www.linkedin.com/in/jjvnz)
 
 ---
